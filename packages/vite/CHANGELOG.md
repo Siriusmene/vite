@@ -1,3 +1,18 @@
+## [8.0.0-beta.0](https://github.com/vitejs/vite/compare/v7.2.6...v8.0.0-beta.0) (2025-12-03)
+### ⚠ BREAKING CHANGES
+
+* update default browser target (#21193)
+* the epic `rolldown-vite` merge (#21189)
+
+### Features
+
+* update default browser target ([#21193](https://github.com/vitejs/vite/issues/21193)) ([8c3dd06](https://github.com/vitejs/vite/commit/8c3dd06bd9903bf0e6bc51f3554eea8cb6b26903))
+* the epic `rolldown-vite` merge ([#21189](https://github.com/vitejs/vite/issues/21189)) ([4a7f8d4](https://github.com/vitejs/vite/commit/4a7f8d43e6b14b89fef278c3ea86f9e3f64b7fc2))
+
+### Rolldown-Vite changelogs
+
+See [rolldown-vite changelog](https://github.com/vitejs/rolldown-vite/blob/v7.2.10/packages/vite/CHANGELOG.md)
+
 ## <small>[7.2.6](https://github.com/vitejs/vite/compare/v7.2.5...v7.2.6) (2025-12-01)</small>
 ## <small>[7.2.5](https://github.com/vitejs/vite/compare/v7.2.4...v7.2.5) (2025-12-01)</small>
 ### Bug Fixes
